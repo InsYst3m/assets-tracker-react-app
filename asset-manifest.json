@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/assets-tracker-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/assets-tracker-react-app/static/js/main.3b6492c6.js",
+    "static/js/787.885984cf.chunk.js": "/assets-tracker-react-app/static/js/787.885984cf.chunk.js",
+    "static/media/logo.svg": "/assets-tracker-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/assets-tracker-react-app/index.html",
+    "main.073c9b0a.css.map": "/assets-tracker-react-app/static/css/main.073c9b0a.css.map",
+    "main.3b6492c6.js.map": "/assets-tracker-react-app/static/js/main.3b6492c6.js.map",
+    "787.885984cf.chunk.js.map": "/assets-tracker-react-app/static/js/787.885984cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3b6492c6.js"
+  ]
+}
