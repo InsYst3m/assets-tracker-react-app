@@ -1,14 +1,26 @@
+.navbar {
+    height: 42px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: pink;
+}
+
+.nav-profile {
+    display: flex;
+}
+
 .nav-links {
     display: flex;
     list-style: none;
 }
 
-.nav-item a {
+.nav-item a, .nav-profile a  {
     padding: 10px 15px;
     text-decoration: none;
     color: white;
 }
 
-.nav-item :hover {
+.nav-item :hover, .nav-profile :hover {
     background-color: deeppink;
 }

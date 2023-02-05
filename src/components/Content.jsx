@@ -1,9 +1,11 @@
 import React from 'react'
+import './../styles/Content.css'
+import Assets from './Assets'
 
 const Content = () => {
   return (
-    <div>
-        <h1>Page content</h1>
+    <div className='page-content'>
+        <Assets />
     </div>
   )
 }

@@ -7,16 +7,10 @@ import './styles/App.css'
 const App = () => {
   return (
     <div className="app">
-        <div className='navbar'>
-            <NavigationBar />
-        </div>
+        <NavigationBar /> 
         <div className='page'>
-            <div className='page-sidebar'>
-                <SideBar />
-            </div>
-            <div className='page-content'>
-                <Content />
-            </div>
+            <SideBar />
+            <Content />
         </div>
     </div>
   )
