@@ -1,0 +1,14 @@
+.nav-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-item a {
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-item :hover {
+    background-color: deeppink;
+}
